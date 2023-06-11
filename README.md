@@ -15,7 +15,7 @@ Essa página é um FAQ de uma empresa fictícia, que ao clicar em uma pergunta d
 
 ## Links
 
-- [DevQuest | Acordeon](https://erickf-silva.github.io/slider-de-imagens/)
+- [DevQuest | Acordeon](https://erickf-silva.github.io/acordeon/)
 
 ## Tecnologias utilizadas
 
